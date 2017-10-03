@@ -1,9 +1,0 @@
-Terminal Commands
-cd- change location
-ls- list
-cp- copy
-mv- move file
-rm- remove/delete (rm -r for a folder)
-mkdir- make directory (rmdir)
-touch- make blank file
-nano- edit file
